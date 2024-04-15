@@ -18,15 +18,15 @@ The things you need before installing the software.
 - Dataset: [EMNIST](https://www.kaggle.com/datasets/crawford/emnist)
 - Dataset Literatue: [Yann LeCuns Website](http://yann.lecun.com/exdb/mnist/index.html)
 - Project Structure: [Github](https://github.com/ThomasRobertFr/ml-project-structure?tab=readme-ov-file)
+- NB
 
 ### Installation
 
 A step by step guide that will tell you how to get the development environment up and running.
 
-```
-$ First step
-$ Another step
-$ Final step
+```bash
+# convert notebook to html
+jupyter nbconvert --to html model.ipynb
 ```
 
 ## Deployment
